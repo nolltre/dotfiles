@@ -10,3 +10,5 @@ Plus, you know, in order to use my Thinkpad USB keyboard with my KVM, as it lack
 key <INS>  {        [ Scroll_Lock           ]       };
 modifier_map Mod3   { Scroll_Lock, <INS> };
 ```
+
+These dotfiles have been customized for my usage. The bits and pieces in them have been collected from all over the net/in forums etc. for many years so I don't know who originally wrote the stuff that I'm using.
